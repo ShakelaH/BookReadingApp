@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signet</string>
+    <string name="about_us">À Propos</string>
+    <string name="about_us_text">Beinvenue chez Signet, votre endroit pour tout à propos de la lecture.\nSi vous êtes fan de l\'horrour ou si vous aimez garder vos livres de mathematiques au près, nous sommes là pour vous aider a organizer votre aventures en lecture et a traquer vos lectures.\n\nAvec Signet, vote bibliotheqe digitale est toujours à vos doits. Gerez facilement vos livres telecharges, recommencez là ou vous vous étiez arrete et recherchez les mots-clés que vous avez lus!\nBonne lecture!</string>
+    <string name="library_body_text">Visionez vos livres installés et choisessez votre prochain livre! Vous pouvez navigez à cette page avec la barre de navigation.</string>
+    <string name="reading_body_text">Retournez ou vous étiez arretés dans votre dernier livre. Si vous n\'avez pas commencé à en lire un, cliquez sur le bouton \"Sélectionner un livre\" pour sélectionner un livre dans votre bibliothèque. </string>
+    <string name="search_body_text">Recherchez des mots-clés dans le livre que vous lisez. Vous avez lu quelque chose d\'intéressant et vouz souhaitez y revenir? Tapez le mot-clé pour faire une recherche afin de trouver ce que vous recherchez. Si vous n\'avez pas de livre en cours de lecture, cliquez sur le bouton \"Sélectionner un livre\" pour accéder à la bibliothèque.</string>
+    <string name="library_continue_reading_header">Continuez de Lire</string>
+    <string name="library_catalog_header">Catalogue de Bibliotheque</string>
+    <string name="go_to_library">Allez à la Bibliotheque</string>
+    <string name="search_text">Texte de recherche</string>
+    <string name="search">Recherche</string>
+    <string name="last_searched_word">"Dernier Mot Recherché:  "</string>
+    <string name="library">Bibliotheque</string>
+    <string name="reading">En cours de lecture</string>
+    <string name="getting_started">Commencer</string>
+    <string name="table_of_contents_header">Table des Matières</string>
+    <string name="reading_next_chapter">Prochain Chapitre</string>
+
+    <string-array name="Routes">
+        <item> Domicile </item>
+        <item> Bibliotheque </item>
+        <item> Lecture </item>
+        <item> Recherche </item>
+        <item> Table des Matières </item>
+    </string-array>
+
+    <string-array name="BookUrls">
+        <!--    Jungle Book    -->
+        <item> https://www.gutenberg.org/cache/epub/236/pg236-h.zip </item>
+        <!--    Les Miserables    -->
+        <item> https://www.gutenberg.org/cache/epub/135/pg135-h.zip </item>
+        <!--    Return of Sherlock Holmes    -->
+        <item> https://www.gutenberg.org/cache/epub/108/pg108-h.zip </item>
+        <!--    Twenty Thousand Leagues     -->
+        <item> https://www.gutenberg.org/cache/epub/164/pg164-h.zip </item>
+        <!--    A Winter Amid the Ice       -->
+        <item> https://www.gutenberg.org/cache/epub/28657/pg28657-h.zip</item>
+        <!--    The memoirs of sherlock holmes       -->
+        <item> https://www.gutenberg.org/cache/epub/834/pg834-h.zip</item>
+    </string-array>
+
+    <string-array name="BookTitles">
+        <item>The Jungle Book</item>
+        <item>Les Misérables</item>
+        <item>The Return of Sherlock Holmes</item>
+        <item>Twenty Thousand Leagues</item>
+        <item>A Winter Amid the Ice</item>
+        <item>Memoirs Of Sherlock Holmes</item>
+    </string-array>
+
+    <integer-array name="BookISBNs">
+        <item>952</item>
+        <item>914</item>
+        <item>978</item>
+        <item>973</item>
+        <item>987</item>
+        <item>980</item>
+    </integer-array>
+
+    <string name="hide_bar"> Cachez Barre de Navigation</string>
+    <string name="show_bar"> Montrez Barre de Navigation</string>
+    <string name="download_book">Télécharger le livre %1$s</string>
+    <string name="downloadedfiles">Livres Téléchargé</string>
+    <string name="delete_directory">Supprimer le répertoire</string>
+    <string name="unzippedbooks">Livres décompressés</string>
+    <string name="delete_all_directories">Supprimer tous les livres</string>
+    <string name="download">Télécharger %1$s</string>
+    <string name="directory_contents">Contenu du répertoire :</string>
+    <string name="no_book_selected_message">Vous devez selectionner un livre avant de faire ceci! SVP retournez a la bibliotheque et cherchez un lirves!</string>
+    <string name="no_image_found">Pas d\'image trouvee</string>
+</resources>

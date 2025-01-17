@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="library_book_bottom_padding">20dp</dimen>
+    <dimen name="library_book_image_height">187dp</dimen>
+    <dimen name="library_book_image_width">150dp</dimen>
+    <dimen name="library_book_image_padding">10dp</dimen>
+    <dimen name="library_book_column_width">150dp</dimen>
+    <dimen name="library_continue_reading_padding_start">5dp</dimen>
+    <dimen name="library_continue_reading_padding_end">5dp</dimen>
+    <dimen name="library_continue_reading_padding_bottom">10dp</dimen>
+    <dimen name="library_screen_column_padding">20dp</dimen>
+    <dimen name="reading_p_font_size">10dp</dimen>
+    <dimen name="reading_h_font_size">20dp</dimen>
+    <dimen name="page_height">250dp</dimen>
+</resources>

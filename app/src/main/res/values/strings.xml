@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Signet</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_text">Welcome to Signet, your cozy go-to for everything reading.\nWhether you\'re a fan of thrilling horror, or keeping your math class textbooks close of reach, we’re here to help you organize your reading adventures and keep track of your readings with the help of a bookmark.\n\nWith Signet, your digital library is always at your fingertips. Easily manage your downloaded books, return to where you left off, and search for keywords you read that peaked your interest.\nHappy reading!</string>
+    <string name="library_body_text">View your downloaded books and pick your next read! You can navigate to that page using the navigation bar.</string>
+    <string name="reading_body_text">Go back to where you left off on the last book you read. If you didn\'t start reading one, click on the \"Select a Book\" button to select from your library.</string>
+    <string name="search_body_text">Search for keywords in the book you\'re reading. Read something interesting and want to go back to it? Type in the keyword for a quick search to find what you are looking for. If you don\'t have a book you are currently reading, click on the \"select a book\" button to navigate to library.</string>
+    <string name="library_continue_reading_header">Continue Reading</string>
+    <string name="library_catalog_header">Library Catalog</string>
+    <string name="go_to_library">Go To Library</string>
+    <string name="search_text">Search Text</string>
+    <string name="search">Search</string>
+    <string name="last_searched_word">"Last Searched Word: "</string>
+    <string name="library">Library</string>
+    <string name="reading">Reading</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="table_of_contents_header">Table of Contents</string>
+    <string name="reading_next_chapter">Next Chapter</string>
+
+    <string-array name="Routes">
+        <item> Home </item>
+        <item> Library </item>
+        <item> Reading </item>
+        <item> Search </item>
+        <item> Table Of Contents </item>
+    </string-array>
+
+    <string-array name="RouteLabels">
+        <item> home </item>
+        <item> library </item>
+        <item> reading </item>
+        <item> search </item>
+        <item> tableofcontents </item>
+    </string-array>
+
+    <string-array name="BookUrls">
+        <!--    Jungle Book    -->
+        <item> https://www.gutenberg.org/cache/epub/236/pg236-h.zip </item>
+        <!--    Les Miserables    -->
+        <item> https://www.gutenberg.org/cache/epub/135/pg135-h.zip </item>
+        <!--    Return of Sherlock Holmes   -->
+        <item> https://www.gutenberg.org/cache/epub/108/pg108-h.zip </item>
+        <!--    Twenty Thousand Leagues     -->
+        <item> https://www.gutenberg.org/cache/epub/164/pg164-h.zip </item>
+        <!--    A Winter Amid the Ice       -->
+        <item> https://www.gutenberg.org/cache/epub/28657/pg28657-h.zip</item>
+        <!--    The memoirs of sherlock holmes       -->
+        <item> https://www.gutenberg.org/cache/epub/834/pg834-h.zip</item>
+    </string-array>
+
+    <string-array name="BookTitles">
+        <item>The Jungle Book</item>
+        <item>Les Misérables</item>
+        <item>The Return of Sherlock Holmes</item>
+        <item>Twenty Thousand Leagues</item>
+        <item>A Winter Amid the Ice</item>
+        <item>Memoirs Of Sherlock Holmes</item>
+    </string-array>
+
+    <integer-array name="BookISBNs">
+        <item>952</item>
+        <item>914</item>
+        <item>978</item>
+        <item>973</item>
+        <item>987</item>
+        <item>980</item>
+    </integer-array>
+
+    <string name="hide_bar"> Hide Navigation Bar </string>
+    <string name="show_bar"> Show Navigation Bar </string>
+    <string name="download_book">Download Book %1$s</string>
+    <string name="downloadedfiles">DownloadedFiles</string>
+    <string name="delete_directory">Delete Directory</string>
+    <string name="unzippedbooks">UnzippedBooks</string>
+    <string name="delete_all_directories">Delete All Books</string>
+    <string name="download">Download %1$s</string>
+    <string name="directory_contents">Directory Contents:</string>
+    <string name="no_book_selected_message">You need to select a book before doing that! Please go to library and choose a book!</string>
+    <string name="no_image_found">No image found</string>
+
+</resources>
