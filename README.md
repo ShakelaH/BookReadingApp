@@ -24,7 +24,7 @@ Welcome to Signet, your cozy go-to for everything reading. Whether you're a fan 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://gitlab.com/dawson-csy3-24-25/511/section3/Shakela-Pera-Yanni-Nathan/bookreadingapp/-/tree/main/
+   git clone https://github.com/ShakelaH/BookReadingApp.git
    ```
 
 ## Usage
